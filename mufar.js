@@ -1322,7 +1322,7 @@ teksits = `*=> [ BIG THANKS TO ]*
 
 *_© Xrutz Official_*
 *[ SC : XRUTZ OFFICIAL ]*`
-Mufar.sendMessage(from, imageh, image, {thumbnail:fs.readFileSync('./src/Tamnel.jpg'), quoted: floc, caption: teksits, forwardingScore: 1000, isForwarded: true })
+Mufar.sendMessage(from, thumb, image, {thumbnail:fs.readFileSync('./src/Tamnel.jpg'), quoted: floc, caption: teksits, forwardingScore: 1000, isForwarded: true })
 break
 
 // Group Menu
