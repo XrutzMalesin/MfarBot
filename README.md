@@ -1,48 +1,64 @@
-<div align="center">
-<img src="https://telegra.ph/file/80cf40cdc05bed2e2f41e.jpg" alt="GURA BASE" width="300" />
-
-# GURA WANGY
-
->
->
->
-</div>
 <p align="center">
-  <a href="https://github.com/DepinKunn"><img title="Author" src="https://img.shields.io/badge/Author-DepinKunn-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a href="https://wa.me/628871746203"> THIS MY AUTHOR >//< </a>
-</h4>
+<img src="https://static.wikia.nocookie.net/kenja-no-mago/images/8/85/Sizilien_von_klode_1.jpg/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
+<p align="center">
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Xrutz Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/XrutzMalesin"><img title="Author" src="https://img.shields.io/badge/Author-XrutzOfficial-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/xrutzmalesin/followers"><img title="Followers" src="https://img.shields.io/github/followers/xrutzmalesin?color=blue&style=flat-square"></a>
+<a href="https://github.com/xrutzmalesin/XrutzB0t/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xrutzmalesin/XrutzB0t?color=red&style=flat-square"></a>
+<a href="https://github.com/xrutzmalesin/XrutzB0t/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xrutzmalesin/XrutzB0t?color=red&style=flat-square"></a>
+<a href="https://github.com/xrutzmalesin/XrutzB0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xrutzmalesin/XrutzB0t?label=Watchers&color=blue&style=flat-square"></a>
 
-# MY GROUP CHAT↓
-[Gura Bot User](https://chat.whatsapp.com/HtupgW2zN9C6aNzktp3bX9)
+## NOTICE
 
-## CARA INSTALL DI TERMUX
+`
+Hallo cuy, Buat ganti owner Klik dibawah
+Dan kalo mau Deploy Heroku, Add buildpack dulu
+Heroku tidak menjamin 24 Jam ya Cuy!
+`
+
+## SETTING OWNER
+
+[`Click Disini`](https://github.com/XrutzMalesin/MfarBot/blob/master/setting.json#L1)
+
+## BUILDPACK HEROKU
+
+`
+Salin aja Yo
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+`
+
+## DEPLOY HEROKU
+
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxrutzmalesin%2FXrutzB0t)
+
+## INSTALL VIA GIT
+
 ```bash
-> Ada Di Tutorial
+> git clone https://github.com/XrutzMalesin/MfarBot
+> cd MfarBot
+> npm start
 ```
-## CARA INSTALL DI LAPTOP
+
+## INSTALL VIA ZIP :
+
 ```bash
-> git clone https://github.com/DepinKunn/GuraBase
-> cd GuraBase
-> npm i
-> node main.js
+> apt upgrade && apt update
+> pkg install bash
+> pkg install git
+> cd /sdcard
+> cd MfarBot-master
+> npm start
 ```
 
-# INSTALL
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
+## SPECIAL THANKS TO
+* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## SETTING
-* [`OWNER`](https://github.com/DepinKunn/GuraBase/edit/master/setting.json)
-* [`PREFIX`](https://github.com/DepinKunn/GuraBase/edit/master/setting.json)
-* [`LOLKEY`](https://github.com/DepinKunn/GuraBase/edit/master/setting.json)
-
-  # Thanks
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Depin`](https://github.com/DepinKunn)
-* `PENYEDIA APIKEY`
-  
-  
+## CONTACT WHATSAPP
+* <a href="https://wa.me/6283871990243"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/KHHxGNw2NQ1KmVbgEQE9nm"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
