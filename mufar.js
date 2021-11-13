@@ -1,9 +1,9 @@
 /*
 ----------[ SCRIPT BY XRUTZ OFFICIAL ]----------
 KALO MAU UPLOAD KE YT, KASIH CREDITNYA LU CM NUMPANG!
-き⃟    SC ORI : DEPIN
-き⃟    RECODER : XRUTZ
-き⃟    THANKS TO :
+き⃟ SC ORI : DEPIN
+き⃟ RECODER : XRUTZ
+き⃟ THANKS TO :
 - MANIK ARYA
 - DCODE DENPA
 - KURXD OFFC
@@ -12,8 +12,8 @@ KALO MAU UPLOAD KE YT, KASIH CREDITNYA LU CM NUMPANG!
 - YUZZU KIMIYAKA
 - IWASHUMAN
 - DAN CREATOR LAINNYA
-き⃟    BIG THANKS TO : @adiwajshing, Baileys, MhankBarbar
-き⃟    BANYAK ERROR? WAJAR BARU BELAJAR MAS.
+き⃟ BIG THANKS TO : @adiwajshing, Baileys, MhankBarbar
+き⃟ BANYAK ERROR? WAJAR BARU BELAJAR MAS.
 ------------------------[ BATAS SUCI ]--------------------------
 */
 const {
